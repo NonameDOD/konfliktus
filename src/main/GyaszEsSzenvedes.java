@@ -14,6 +14,8 @@ public class GyaszEsSzenvedes {
         System.out.println("Hello HELL!!!!");
 
         System.out.println("Haraszti Mihálynak Fáj az Élet!!!!!!");
+        
+        System.out.println("");
 
     }
     
